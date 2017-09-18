@@ -1,6 +1,6 @@
 # Markdown Worksheet
 
-![Project Image](project-image-url)
+![Project Image](https://github.com/jamesqquick/markdown-worksheet/blob/master/screenshot.png)
 
 > Worksheet to practice beginner's Markdown.
 
