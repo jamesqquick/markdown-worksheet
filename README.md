@@ -2,24 +2,10 @@
 
 ![Project Image](project-image-url)
 
-> This is a ReadMe template to help save you time and effort.
+> Worksheet to practice beginner's Markdown.
 
 ---
 
-### Table of Contents
-You're sections headers will be used to reference location of destination.
-
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
-- [License](#license)
-- [Author Info](#author-info# Read Me Template
-
-![Project Image](project-image-url)
-
-> This is a ReadMe template to help save you time and effort.
-
----
 
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
@@ -34,12 +20,11 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+The markdown-worksheet.md is a beginners worksheet to Markdown.  It will walk you through the basic syntax of Markdown and provide you with exercises to practice what you learn.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Markdown
 
 [Back To The Top](#markdown-worksheet)
 
@@ -47,22 +32,13 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 ## How To Use
 
-#### Installation
+To get the worksheet, simply download or clone this repository.  From there, you can open it up in a text editor (I suggest Visual Studio Code) to make changes and practice by completing the "TODO" items.
 
 
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#markdown-worksheet)
-
----
-
-## References
-
-- [Github Repo](https://github.com/jamesqquick/read-me-template/blob/master/README.md)
+## Additional Resources
+- [Markdown Cheat Sheet - Adam P on Github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
+- [Daring Fireball Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
+- [MarkDown in Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
 
 [Back To The Top](#markdown-worksheet)
 
