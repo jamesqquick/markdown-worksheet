@@ -20,7 +20,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-The worksheet.md is a beginners worksheet to Markdown.  It will walk you through the basic syntax of Markdown and provide you with exercises to practice what you learn.
+The [worksheet.md](https://github.com/jamesqquick/markdown-worksheet/blob/master/worksheet.md) is a beginners worksheet to Markdown.  It will walk you through the basic syntax of Markdown and provide you with exercises to practice what you learn.
 
 #### Technologies
 
