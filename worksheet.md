@@ -175,7 +175,7 @@ Create reference style links by defining your link with the a 'key' inside of br
 <!-- 
     Example
 
-    [1]: http://jamesqquick.com/ 
+    [1]:(http://jamesqquick.com/) 
 -->
 
 Then use the reference style link by using your text inside of brackets followed by the link 'key' inside of bracket.
